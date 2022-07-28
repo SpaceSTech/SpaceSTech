@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpaceSTech Lukman Gbolahan
 - 👀 I’m interested in becoming a Professional Web and software developer..
 - 🌱 I’m currently learning Javascript...
-- 💞️ I’m looking to collaborate on real projects 
+- 💞️ Looking forward to collaborate on real projects 
 - 📫 How to reach me on Linked: @Lukman Gbolahan...
 
 <!---
